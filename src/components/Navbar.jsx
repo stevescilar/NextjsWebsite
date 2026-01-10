@@ -11,6 +11,7 @@ function Navbar({theme,setTheme}) {
             <a href="#services" className='sm:hover:border-b'>Services</a>
             <a href="#our-work" className='sm:hover:border-b'>Our Work</a>
             <a href="#contact-us" className='sm:hover:border-b'>Contact Us</a>
+            <a href="#blog" className='sm:hover:border-b'>Blog</a>
       </div>
       
       <div>
